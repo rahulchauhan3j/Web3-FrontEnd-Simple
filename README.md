@@ -4,7 +4,7 @@ This is an application to demonstrate how to interact with a solidity contract f
 
 This was created as part of Metacrafters Intermediate Solidity Course.
 
-This application interacts with a contract deployed on hardhat node.
+This application interacts with a contract deployed on hardhat node. Code for the contract is at https://github.com/rahulchauhan3j/Metacrafters-Solidity-Challenges/blob/main/contracts/StoreAndRetrieve.sol
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
